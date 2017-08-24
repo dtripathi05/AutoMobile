@@ -1,0 +1,5 @@
+D:\Deependra\AutoMobileService\AutoMobileShowRoom\AutoMobile\bin\Debug\AutoMobile.dll
+D:\Deependra\AutoMobileService\AutoMobileShowRoom\AutoMobile\bin\Debug\AutoMobile.pdb
+D:\Deependra\AutoMobileService\AutoMobileShowRoom\AutoMobile\obj\Debug\AutoMobile.csprojResolveAssemblyReference.cache
+D:\Deependra\AutoMobileService\AutoMobileShowRoom\AutoMobile\obj\Debug\AutoMobile.dll
+D:\Deependra\AutoMobileService\AutoMobileShowRoom\AutoMobile\obj\Debug\AutoMobile.pdb

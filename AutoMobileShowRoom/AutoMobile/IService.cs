@@ -2,7 +2,7 @@
 {
     public interface IService
     {
-        Vehicle service(Vehicle vehicle);
+        void service(Vehicle vehicle);
       
     }
 

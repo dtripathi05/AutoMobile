@@ -1,0 +1,14 @@
+D:\Deependra\AutoMobileService\AutoMobileShowRoom\AutoMobileServices.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Deependra\AutoMobileService\AutoMobileShowRoom\AutoMobileServices.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Deependra\AutoMobileService\AutoMobileShowRoom\AutoMobileServices.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Deependra\AutoMobileService\AutoMobileShowRoom\AutoMobileServices.Test\bin\Debug\AutoMobileServices.Test.dll
+D:\Deependra\AutoMobileService\AutoMobileShowRoom\AutoMobileServices.Test\bin\Debug\AutoMobileServices.Test.pdb
+D:\Deependra\AutoMobileService\AutoMobileShowRoom\AutoMobileServices.Test\bin\Debug\AutoMobile.dll
+D:\Deependra\AutoMobileService\AutoMobileShowRoom\AutoMobileServices.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Deependra\AutoMobileService\AutoMobileShowRoom\AutoMobileServices.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Deependra\AutoMobileService\AutoMobileShowRoom\AutoMobileServices.Test\bin\Debug\AutoMobile.pdb
+D:\Deependra\AutoMobileService\AutoMobileShowRoom\AutoMobileServices.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Deependra\AutoMobileService\AutoMobileShowRoom\AutoMobileServices.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Deependra\AutoMobileService\AutoMobileShowRoom\AutoMobileServices.Test\obj\Debug\AutoMobileServices.Test.csprojResolveAssemblyReference.cache
+D:\Deependra\AutoMobileService\AutoMobileShowRoom\AutoMobileServices.Test\obj\Debug\AutoMobileServices.Test.dll
+D:\Deependra\AutoMobileService\AutoMobileShowRoom\AutoMobileServices.Test\obj\Debug\AutoMobileServices.Test.pdb

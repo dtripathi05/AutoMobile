@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMobile", "AutoMobile\AutoMobile.csproj", "{A14F36A9-EE1F-4C7D-9D0A-65D20DB12653}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMobileServices.Test", "AutoMobileServices.Test\AutoMobileServices.Test.csproj", "{5150E137-467B-4AB7-93AA-A06341EA6E8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A14F36A9-EE1F-4C7D-9D0A-65D20DB12653}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A14F36A9-EE1F-4C7D-9D0A-65D20DB12653}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A14F36A9-EE1F-4C7D-9D0A-65D20DB12653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5150E137-467B-4AB7-93AA-A06341EA6E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5150E137-467B-4AB7-93AA-A06341EA6E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5150E137-467B-4AB7-93AA-A06341EA6E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5150E137-467B-4AB7-93AA-A06341EA6E8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,10 +4,10 @@ namespace AutoMobile
 {
     public class MaintainVehicle : IService
     {
-       
-        public Vehicle service(Vehicle vehicle)
+        Vehicle vehicle = null;
+        public void service(Vehicle vehicle)
         {
-            return vehicle;
+             this.vehicle=vehicle;
         }
     }
 

@@ -27,6 +27,7 @@ namespace AutoMobile
     }
     public class ServiceManager
     {
+        double total = 0;
         public InVoice InVoice { get; }
         Dictionary<IService,InVoice> totalService = new Dictionary<IService, InVoice>();
         public void TotalServices(IService service,InVoice invoice,Vehicle vehicle)
@@ -34,9 +35,22 @@ namespace AutoMobile
             service.service(vehicle);
             totalService.Add(service,invoice);
         }
-        public ServiceManager(InVoice inVoice)
+        //public ServiceManager(InVoice inVoice)
+        //{
+        //    InVoice = inVoice;
+        //}
+        public Dictionary<IService,InVoice> GetTotalServices()
         {
-            InVoice = inVoice;
+            return totalService;
+        }
+        public double DailyIncome()
+        {
+            var Keys = totalService.Keys;
+            foreach (var Item in Keys)
+            {
+                total +=  totalService[Item].InvoiceAmount;
+            }
+            return total;
         }
     }
     public class InVoice
